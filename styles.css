@@ -1,4 +1,14 @@
 html {
     background-image: url("assets/images/mars-surface.jpg");
-    background-size: cover;
+    background-size: cover cover;
+}
+
+#rover {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+
+button {
+    text-transform: uppercase;
 }
